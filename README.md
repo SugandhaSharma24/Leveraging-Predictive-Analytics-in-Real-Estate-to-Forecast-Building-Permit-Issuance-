@@ -1,0 +1,3 @@
+# Leveraging-Predictive-Analytics-in-Real-Estate-to-Forecast-Building-Permit-Issuance
+This study applies predictive analytics in the domain of real state and brings out some valuable insights for the stakeholders and business. In this study various features are considered and their co-relation with respect to issuance of building permit is studied. Study establishes a null hypothesis to evaluate if building permit are co-related to population in the region or not. To perform this analysis logistic regression is used and feature selection and dimensionality reduction is performed using Principal Component Analysis.
+Power BI is used to bring out insights from the predicted data and various quantitative and qualitative results are analysed and discussed in detail.
